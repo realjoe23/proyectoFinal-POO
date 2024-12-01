@@ -63,9 +63,6 @@ Cada tipo de inmueble tiene atributos específicos:
 3. **Contenedor:** Clase genérica que almacena objetos de cualquier tipo de inmueble, con métodos para insertar, eliminar, ordenar y listar.  
 4. **Interfaz:** Gestiona la interacción con el usuario y permite realizar las operaciones sobre el registro.  
 
-### Diagrama UML  
-El diagrama UML incluye las relaciones entre las clases, destacando el uso de **herencia**, **composición** y **dependencia**.  
-
 ## Requisitos  
 - **Lenguaje:** C++  
 - **Compilador:** Compatible con C++11 o superior  
